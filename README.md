@@ -16,7 +16,7 @@
    IBM Data Engineering Foundations
 
 # **Exam:**
-   PL-300 Power BI Data Analyst Associate
+  - PL-300 Power BI Data Analyst Associate
 
 
 <!---
